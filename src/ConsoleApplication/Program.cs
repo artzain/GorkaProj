@@ -40,5 +40,8 @@ namespace ConsoleApplication
             callback: Result);
         }
 
+        private void Result(RequestResult result)
+        {
+        }
 	}
 }
